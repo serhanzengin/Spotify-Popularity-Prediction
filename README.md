@@ -1,5 +1,8 @@
 Spotify Popularity Prediction
+
+
 Overview
+
 This repository contains a machine learning model that predicts the popularity of songs on Spotify. The model is trained using a dataset of features extracted from various songs and their corresponding popularity scores on the platform.
 
 
