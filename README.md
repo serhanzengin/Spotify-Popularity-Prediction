@@ -20,8 +20,8 @@ Genre Information: Genre tags associated with each song.
 
 Dataset
 
-The dataset used for training and evaluation consists of a curated collection of songs with their corresponding popularity scores on Spotify. The dataset is preprocessed to handle missing values and normalize feature scales.
+The dataset used for training and evaluation consists of a curated collection of songs with their corresponding popularity scores on Spotify. The dataset is preprocessed to handle missing values and normalize feature scales. This dataset contains songs by artists who have been in the Spotify Top 50 list in the last 3 years.
 
 Model Architecture
 
-The model is built using a combination of traditional machine learning algorithms. It is designed to learn relationships between song features and popularity scores.
+The model is built using a combination of traditional machine learning algorithms. It is designed to learn relationships between song features and popularity scores. CatBoost has been chosen as the final model due to its state-of-the-art results and ease of use.
