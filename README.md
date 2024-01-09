@@ -14,8 +14,9 @@ Features
 The model utilizes a diverse set of features, including:
 
 Acoustic Features: Features such as danceability, energy, and tempo.
+
 Lyric Features: Analysis of lyrical content using natural language processing.
-Artist Information: Information about the artist, such as popularity and followers.
+
 Genre Information: Genre tags associated with each song.
 
 Dataset
